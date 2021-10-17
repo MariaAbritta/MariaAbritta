@@ -7,6 +7,4 @@
 - 📫 Contate-me no e-mail: eduardaabritta@gmail.com
 - ❔  Sobre mim: Tenho 19 anos, moro em Brasília, sou um pessoa proativa, criativa, comunicativa e organizada. Sou apaixonada por música e esportes, e claro, programação!
 
-
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gotham)
