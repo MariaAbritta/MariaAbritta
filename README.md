@@ -11,4 +11,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaAbritta&layout=compact&langs_count=16&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
