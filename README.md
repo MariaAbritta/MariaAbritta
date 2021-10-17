@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oi :) 
 
 - 🚀 Treinee da Orc'estra Gamificação (Empresa Júnior de Engenharia de Software da Universidade de Brasilia)
 - 🎓 Atualmente graduando em Enegnharia de Software pela Universidade de Brasília (UnB) --> 2º semestre 
