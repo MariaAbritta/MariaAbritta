@@ -1,7 +1,7 @@
 ### Oi :) 
 
-- 🚀 Treinee da Orc'estra Gamificação (Empresa Júnior de Engenharia de Software da Universidade de Brasilia)
 - 🎓 Atualmente graduando em Enegnharia de Software pela Universidade de Brasília (UnB) --> 2º semestre 
+- 🚀 Treinee da Orc'estra Gamificação (Empresa Júnior de Engenharia de Software da Universidade de Brasilia)
 - 🌱 Estundando CSS, HTML, C++, Python... (Um pouco de tudo até eu me encontrar)
 - 💡  Sempre estou a procura de evolução, então fique à vontade para me mandar dicas ou estudos 
 - 📫 Contate-me no e-mail: eduardaabritta@gmail.com
