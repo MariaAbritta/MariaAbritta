@@ -11,9 +11,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaAbritta&layout=compact&langs_count=16&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
-
+# Um pouco mais sobre mim:
 <div>
   <a href="https://www.instagram.com/mariaabritta_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-abritta-ba7632174/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
 </div>
+
+##
+# Skills:
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+</div>
+
