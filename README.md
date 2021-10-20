@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Maria Abritta
 
-- 🎓 Atualmente graduando em Enegnharia de Software pela Universidade de Brasília (UnB) --> 2º semestre 
+- 🎓 Atualmente graduando em Engenharia de Software pela Universidade de Brasília (UnB) --> 2º semestre 
 - 🚀 Trainee da Orc'estra Gamificação (Empresa Júnior de Engenharia de Software da Universidade de Brasilia)
 - 🌱 Estundando CSS, HTML, C, Python... (Um pouco de tudo até eu me encontrar)
 - 💡  Sempre estou a procura de evolução, então fique à vontade para me mandar dicas ou estudos 
