@@ -6,7 +6,7 @@
 - 📫 Contate-me no e-mail: eduardaabritta@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaAbritta&show_icons=true&theme=panda)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaAbritta&layout=compact&langs_count=16&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaAbritta&layout=compact&langs_count=16&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 # Um pouco mais sobre mim:
