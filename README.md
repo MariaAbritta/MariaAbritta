@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Maria Abritta
 
 - 🎓 Atualmente graduando em Engenharia de Software pela Universidade de Brasília (UnB) 
-- 🚀 Membro da Orc'estra Gamificação (Empresa Júnior de Engenharia de Software da Universidade de Brasilia)
+- 🚀 Diretora de Projetos da Orc'estra Gamificação (Empresa Júnior de Engenharia de Software da Universidade de Brasilia)
 - 💡 Sempre estou a procura de evolução!
 - 📫 Contate-me no e-mail: eduardaabritta@gmail.com
 
